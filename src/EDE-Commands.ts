@@ -262,19 +262,19 @@ export class EDE_Commands extends VscodeBackgroundProcesses{
         <ol>
           <li>
             <h3>Click on the E.D.E icon in the bottom right corner</h3>
-            <img src="https://github.com/AranMesquita/Error-Diagnostic-Extension/blob/main/E-D-E/README-assets/E.D.E-icon.png" alt="E.D.E icon" width="350" height="125">
+            <img src="https://github.com/AranMesquita/Error-Diagnostic-Extension/blob/main/README-assets/E.D.E-icon.png?raw=true" alt="E.D.E icon" width="350" height="125">
           </li>
           <li>
             <h3>A drop-down menu should appear showing all E.D.E commands, then click on the command you wish to use.</h3>
-            <img src="https://github.com/AranMesquita/Error-Diagnostic-Extension/blob/main/E-D-E/README-assets/Drop-down-menu-1.png" alt="Drop-down menu" width="560" height="350">
+            <img src="https://github.com/AranMesquita/Error-Diagnostic-Extension/blob/main/README-assets/Drop-down-menu-1.png?raw=true" alt="Drop-down menu" width="560" height="350">
           </li>
           <li>
             <h3>Click the 'Change Your Open AI API Key' command</h3>
-            <img src="https://github.com/AranMesquita/Error-Diagnostic-Extension/blob/main/E-D-E/README-assets/change-api-key.png" alt="Change API Key" width="560" height="350">
+            <img src="https://github.com/AranMesquita/Error-Diagnostic-Extension/blob/main/README-assets/change-api-key.png?raw=true" alt="Change API Key" width="560" height="350">
           </li>
           <li>
             <h3>Then enter (copy + paste) your OpenAi API key and press 'enter'</h3>
-            <img src="https://github.com/AranMesquita/Error-Diagnostic-Extension/blob/main/E-D-E/README-assets/enter-api-key.png" alt="Enter API Key" width="560" height="350">
+            <img src="https://github.com/AranMesquita/Error-Diagnostic-Extension/blob/main/README-assets/enter-api-key.png?raw=true" alt="Enter API Key" width="560" height="350">
           </li>
         </ol>
       </div>
@@ -321,11 +321,11 @@ export class EDE_Commands extends VscodeBackgroundProcesses{
           </li>
           <li>
             <h3>Click on the E.D.E icon in the bottom right corner</h3>
-            <img src="https://github.com/AranMesquita/Error-Diagnostic-Extension/blob/main/E-D-E/README-assets/E.D.E-icon.png" alt="E.D.E icon" width="350" height="125">
+            <img src="https://github.com/AranMesquita/Error-Diagnostic-Extension/blob/main/README-assets/E.D.E-icon.png?raw=true" alt="E.D.E icon" width="350" height="125">
           </li>
           <li>
             <h3>A drop-down menu should appear showing all E.D.E commands, then click on the command you wish to use.</h3>
-            <img src="https://github.com/AranMesquita/Error-Diagnostic-Extension/blob/main/E-D-E/README-assets/Drop-down-menu-1.png" alt="Drop-down menu" width="560" height="350">
+            <img src="https://github.com/AranMesquita/Error-Diagnostic-Extension/blob/main/README-assets/Drop-down-menu-1.png?raw=true" alt="Drop-down menu" width="560" height="350">
           </li>
           <li>
             <h3>If the icon is not there, open the command palette</h3>
@@ -333,7 +333,7 @@ export class EDE_Commands extends VscodeBackgroundProcesses{
           </li>
           <li>
             <h3>While the command palette is open, you can now search for the E.D.E commands</h3>
-            <img src="https://github.com/AranMesquita/Error-Diagnostic-Extension/blob/main/E-D-E/README-assets/E.D.E-help.png" alt="Command palette" width="560" height="350">
+            <img src="https://github.com/AranMesquita/Error-Diagnostic-Extension/blob/main/README-assets/E.D.E-help.png?raw=true" alt="Command palette" width="560" height="350">
           </li>
           <li>
             <h3>Click on the 'Help' command; this should activate the extension, and now you can use the extension as normal.</h3>
