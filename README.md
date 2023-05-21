@@ -75,5 +75,3 @@ ctrl + shift + p
 
 ##### if you've made it this far here is a picture of a silly giraffe:
 <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTI6tj4nGe5rPAFgqe_78kiWzfB8m000zJ8TcSSvgwM9-Krx0n8" alt="oh thats why meme" width="150" height="200" />
-
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
