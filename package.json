@@ -1,7 +1,7 @@
 {
   "name": "E-D-E",
   "displayName": "E.D.E",
-  "description": "Error Diagnosis Extension",
+  "description": "Error Diagnostic Extension",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.0"
